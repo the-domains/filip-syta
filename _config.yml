@@ -1,7 +1,7 @@
 name: Filip Syta
 favicon: null
-layout_spectrum: 0.7131081351544708
-typography_spectrum: 0.29434241889975965
+layout_spectrum: 1
+typography_spectrum: 0.25413
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.1831921620760113
+  brandStrength: 0.0625
   lightness: 0.8481695177033544
   saturation: 0.37140767253004014
   rhythmicContrast: 0.5559842826332897
